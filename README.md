@@ -6,7 +6,7 @@ This is for the development of **AdhocCombat** (https://adhoccombat.com)
 
 This is a work in progress...
 
-Got 5 minutes to spare, bored, in Windows and have a Firefox or Chrome based browser? Time for some [_**AdhocCombat**!_](https://adhoccombat.com)
+Got 5 minutes to spare, bored, in Windows or MacOS and have a Chrome or Firefox based browser? Time for some [_**AdhocCombat**!_](https://adhoccombat.com)
 
 Be assigned to a random faction and fight AI controlled bots and sometimes other players! 
 
